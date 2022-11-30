@@ -18,6 +18,10 @@
     <main>
       
         <h1>Welkom bij JouwProefwerkPlanning</h1>
+      
+      <div id="hello_world">
+        <a href="other.html">click here</a>
+    </div>
         
     </main>
     
