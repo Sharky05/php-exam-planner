@@ -1,1 +1,16 @@
 
+h1 {
+      background-color: blue;
+      color: purple;
+      font-size: 64px;
+      font-weight: bold;
+      font-family: Verdana;
+      padding: 20px;
+      border-radius: 0;
+      border: 1px outset;
+      margin: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
