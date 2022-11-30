@@ -14,3 +14,14 @@ h1 {
       align-items: center;
       text-align: center;
     }
+
+#hello_world {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          padding: 10px;
+          border-radius: 25px;
+          background-color: #c2c2c2;
+          border: 1px solid #3ac0da;
+    }
