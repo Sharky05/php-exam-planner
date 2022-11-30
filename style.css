@@ -1,27 +1,63 @@
+/* CSS styles */
 
-h1 {
-      background-color: blue;
-      color: purple;
-      font-size: 64px;
-      font-weight: bold;
-      font-family: Verdana;
-      padding: 20px;
-      border-radius: 0;
-      border: 1px outset;
-      margin: 100px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-    }
+body {
+  background-color: lavenderblush;
+}
 
-#hello_world {
+#main_button {
           display: flex;
           justify-content: center;
           align-items: center;
           text-align: center;
-          padding: 10px;
+          padding: 15px;
           border-radius: 25px;
-          background-color: #c2c2c2;
-          border: 1px solid #3ac0da;
+          background-color: lightgray;
+          border: 1px solid purple;
+          font-size: 25px;
+          font-family: verdana;
     }
+
+#main_button_margin {
+  font-size: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  font-weight: bold;
+  color: purple
+  font-family: verdana;
+}
+
+
+a:visited {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: verdana;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+  color: mediumpurple;
+  font-family: verdana;
+}
+
+a:active {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: verdana;
+}
+
+h1 {
+  color: midnightblue;
+  font-size: 25px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  color: midnightblue;
+  font-family: verdana;
+}
