@@ -57,7 +57,27 @@ h1 {
   font-family: verdana;
 }
 
+h2 {
+  color: midnightblue;
+  font-size: 20px;
+  font-family: verdana;
+}
+
+
 p {
   color: midnightblue;
   font-family: verdana;
+}
+
+#home {
+  display: block;
+  margin: 20px;
+  border: 2px solid purple;
+  border-radius: 25px;
+  background-color: lightgray;
+  color: midnightblue;
+  font-weight: bold;
+  font-style: bold;
+  cursor: pointer;
+  font-size: 25px
 }
