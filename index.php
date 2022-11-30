@@ -17,12 +17,24 @@
     
     <main>
       
-        <h1>Welkom bij JouwProefwerkPlanning</h1>
+        <h1>Welkom bij JouwProefwerkPlanning.nl</h1>
       
-      <div id="hello_world">
-        <a href="other.html">click here</a>
+      <p>
+        Een toetsweek...
+      </p>
+      
+      <div id="main_button">
+        <a href="other.html">Maak Planner</a>
     </div>
-        
+      <p id="main_button_margin">
+      <div id="main_button">
+        <a href="other.html">Beheerder</a>
+    </div>
+      <p id="main_button_margin">
+      <div id="main_button">
+        <a href="other.html">Contact</a>
+    </div>
+      
     </main>
     
   </body>
