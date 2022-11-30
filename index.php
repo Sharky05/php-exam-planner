@@ -17,7 +17,7 @@
     
     <main>
       
-        <h1>Welcome to My Website</h1>
+        <h1>Welkom bij JouwProefwerkPlanning</h1>
         
     </main>
     
