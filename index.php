@@ -27,15 +27,18 @@
       </p>
       
       <div id="main_button">
-        <a href="other.html">Maak Planner</a>
+        <a href="planner.php">Maak Planner</a>
     </div>
       <p id="main_button_margin">
+        
       <div id="main_button">
-        <a href="other.html">Beheerder</a>
+        <a href="beheerder.php">Beheerder</a>
     </div>
+      
       <p id="main_button_margin">
+        
       <div id="main_button">
-        <a href="other.html">Contact</a>
+        <a href="contact.php">Contact</a>
     </div>
       
     </main>
