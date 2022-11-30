@@ -20,7 +20,10 @@
         <h1>Welkom bij JouwProefwerkPlanning.nl</h1>
       
       <p>
-        Een toetsweek...
+        Een toetsweek betekent voor veel leerlingen helaas veel stress, heel onnodig als het ons vraagt.
+        Volgens Stan en Nico is dit onnodig, zij ontwikkelde namelijk deze website. Met deze proefwerkplanner
+        verdeel je het leerwerk en begin je ruim van te voren met de voorbereiding en leren. 
+        Zelfs de leuke dingen hoeven niet weg te vallen. We houden namelijk rekening met fun, hobbies en andere activiteiten.
       </p>
       
       <div id="main_button">
