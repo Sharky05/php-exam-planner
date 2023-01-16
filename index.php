@@ -14,7 +14,13 @@
   </head>
   
   <body>
-    
+     <div> 
+        <div id="nav-items"> 
+          <a class="navbar-brand" href="home.html">Homepage</a> 
+          <a class="nav-items" href="planner.html">Planner</a> 
+          <a class="navbar-brand" href="contact.html">Contact</a> 
+          <a class="nav-items" href="login.html">Login</a> 
+        </div>
     <main>
       
         <h1>Welkom bij JouwProefwerkPlanning.nl</h1>
