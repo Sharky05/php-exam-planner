@@ -1,0 +1,5 @@
+#C2E5D3 - Mint, background
+#1B1725 - Black, outlines & text
+#534B62 - Slate gray
+#A499B3 - Lighter gray
+#226CE0 - Blue, links
