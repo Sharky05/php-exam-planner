@@ -1,7 +1,16 @@
 /* CSS styles */
 
 body {
-  background-color: lavenderblush;
+  background-color: #C2E5D3;
+}
+
+input {
+  width: 100%;
+  padding: 10px 16px;
+  background: #cef2df;
+  margin: 2px;
+  border: 2px solid black;
+  border-radius: 4px;
 }
 
 #main_button {
@@ -11,8 +20,8 @@ body {
           text-align: center;
           padding: 15px;
           border-radius: 25px;
-          background-color: lightgray;
-          border: 1px solid purple;
+          background-color: #cef2df;
+          border: 1px solid #1B1725;
           font-size: 25px;
           font-family: verdana;
     }
@@ -24,7 +33,7 @@ body {
 a:link {
   text-decoration: none;
   font-weight: bold;
-  color: purple;
+  color: #226CE0;
   font-family: verdana;
 }
 
@@ -49,7 +58,7 @@ a:active {
 }
 
 h1 {
-  color: midnightblue;
+  color: #1B1725;
   font-size: 25px;
   justify-content: center;
   align-items: center;
@@ -58,14 +67,14 @@ h1 {
 }
 
 h2 {
-  color: midnightblue;
+  color: #1B1725;
   font-size: 20px;
   font-family: verdana;
 }
 
 
 p {
-  color: midnightblue;
+  color: #1B1725;
   font-family: verdana;
 }
 
