@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My Website</title>
+    <title>Homepage</title>
     <link rel="stylesheet" href="./style.css">
     <link rel="icon" href="site_icon_primary.png">
     
