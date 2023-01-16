@@ -16,10 +16,10 @@
   <body>
      <div> 
         <div id="nav-items"> 
-          <a class="navbar-brand" href="home.html">Homepage</a> 
-          <a class="nav-items" href="planner.html">Planner</a> 
-          <a class="navbar-brand" href="contact.html">Contact</a> 
-          <a class="nav-items" href="login.html">Login</a> 
+          <a class="navbar-brand" href="index.php">Homepage</a> 
+          <a class="nav-items" href="planner.php">Planner</a> 
+          <a class="navbar-brand" href="contact.php">Contact</a> 
+          <a class="nav-items" href="login.php">Login</a> 
         </div>
     <main>
       
