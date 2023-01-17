@@ -23,6 +23,10 @@ input {
   border-radius: 4px;
 }
 
+#left_aligned {
+  max-width: 50%;
+}
+
 #main_button {
           display: flex;
           justify-content: center;
