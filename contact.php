@@ -14,14 +14,18 @@
   </head>
   
   <body>
+     <div> 
+        <div id="nav-items"> 
+          <a class="navbar-brand" href="index.php">Homepage</a> 
+          <a class="nav-items" href="planner.php">Planner</a> 
+          <a class="navbar-brand" href="contact.php">Contact</a> 
+          <a class="nav-items" href="login.php">Login</a> 
+        </div>
+    <main>
     
     <main>
-      <button type="button"
-              id="home"
-              onclick="location.href = 'index.php'">
-         Home
-      </button>
-       <h1>Contact Informatie</h1>
+      
+       <h1 id="left_aligned">Contact Informatie</h1>
       
       <h2>
         Nico Francis - Developer
