@@ -25,33 +25,13 @@
       
         <h1>Welkom bij JouwProefwerkPlanning.nl</h1>
       
-      <p>
-        Een toetsweek betekent voor veel leerlingen helaas veel stress, heel onnodig als het ons vraagt.
-        Volgens Stan en Nico is dit onnodig, zij ontwikkelde namelijk deze website. Met deze proefwerkplanner
+      <p id="left_aligned">
+        Een toetsweek betekent voor veel leerlingen helaas veel stress.
+        Volgens Stan en Nico is dit onnodig, zij ontwikkelde namelijk deze website.<br><br>Met deze proefwerkplanner
         verdeel je het leerwerk en begin je ruim van te voren met de voorbereiding en leren. 
-        Zelfs de leuke dingen hoeven niet weg te vallen. We houden namelijk rekening met fun, hobbies en andere activiteiten.
+        <br><br>Met onze planner is het mogelijk om precies in te stellen op welke dagen je wilt leren en hoe lang je wilt leren.
+        <br><br>Begin met het maken van een account. Zo kunnen we de ingevulde toetsen opslaan.
       </p>
-      
-      <div id="main_button">
-        <a href="planner.php">Maak Planner</a>
-    </div>
-      <p id="main_button_margin">
-        
-      <div id="main_button">
-        <a href="beheerder.php">Beheerder</a>
-    </div>
-      
-      <p id="main_button_margin">
-        
-      <div id="main_button">
-        <a href="contact.php">Contact</a>
-    </div>
-      
-            <p id="main_button_margin">
-        
-      <div id="main_button">
-        <a href="login.php">Login</a>
-    </div>
       
     </main>
     
