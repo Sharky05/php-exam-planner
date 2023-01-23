@@ -4,3 +4,4 @@
 #534B62 - Slate gray
 #A499B3 - Lighter gray
 #226CE0 - Blue, links
+//De basiskleuren waar onze website aan voldoet.
