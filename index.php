@@ -25,7 +25,7 @@
       
         <h1>Welkom bij JouwProefwerkPlanning.nl</h1>
       
-      <p id="left_aligned">
+      <p>
         Een toetsweek betekent voor veel leerlingen helaas veel stress.
         Volgens Stan en Nico is dit onnodig, zij ontwikkelde namelijk deze website.<br><br>Met deze proefwerkplanner
         verdeel je het leerwerk en begin je ruim van te voren met de voorbereiding en leren. 
